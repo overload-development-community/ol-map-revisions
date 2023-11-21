@@ -1,0 +1,507 @@
+[
+  {
+    "position": {
+      "x": 16.0721321,
+      "y": 3.478573,
+      "z": 4.108448,
+      "normalized": {
+        "x": 0.9482237,
+        "y": 0.205228865,
+        "z": 0.24239023,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 16.9497261,
+      "sqrMagnitude": 287.293243
+    },
+    "orientation": {
+      "x": -8.444392E-08,
+      "y": -0.9659258,
+      "z": -2.26266827E-08,
+      "w": -0.258819073,
+      "eulerAngles": {
+        "x": -2.035555E-13,
+        "y": 150.0,
+        "z": 1.00179122E-05,
+        "normalized": {
+          "x": -1.35703667E-15,
+          "y": 1.0,
+          "z": 6.678608E-08,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 150.0,
+        "sqrMagnitude": 22500.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 23.9572468,
+      "y": 3.66085339,
+      "z": 19.0247078,
+      "normalized": {
+        "x": 0.777565956,
+        "y": 0.118818119,
+        "z": 0.6174735,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.00000012
+      },
+      "magnitude": 30.8105659,
+      "sqrMagnitude": 949.291
+    },
+    "orientation": {
+      "x": -4.37113918E-08,
+      "y": -0.50000006,
+      "z": 7.57103464E-08,
+      "w": 0.8660254,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 300.0,
+        "z": 1.00179122E-05,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 3.339304E-08,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 300.0,
+        "sqrMagnitude": 90000.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": -3.109197,
+      "y": -5.088107,
+      "z": 29.5175552,
+      "normalized": {
+        "x": -0.103248186,
+        "y": -0.168962538,
+        "z": 0.9801997,
+        "normalized": {
+          "x": -0.103248194,
+          "y": -0.168962553,
+          "z": 0.980199754,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 30.1138172,
+      "sqrMagnitude": 906.842
+    },
+    "orientation": {
+      "x": -6.181724E-08,
+      "y": -0.707106769,
+      "z": 6.181724E-08,
+      "w": -0.707106769,
+      "eulerAngles": {
+        "x": 1.00179141E-05,
+        "y": 90.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 1.11310158E-07,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 9.846674,
+      "y": -4.593195,
+      "z": -5.973582,
+      "normalized": {
+        "x": 0.79414314,
+        "y": -0.3704453,
+        "z": -0.481774747,
+        "normalized": {
+          "x": 0.7941432,
+          "y": -0.370445341,
+          "z": -0.481774777,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 12.3991175,
+      "sqrMagnitude": 153.738113
+    },
+    "orientation": {
+      "x": 7.57103464E-08,
+      "y": -0.50000006,
+      "z": 4.37113918E-08,
+      "w": 0.8660254,
+      "eulerAngles": {
+        "x": 1.00179122E-05,
+        "y": 300.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 3.339304E-08,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 300.0,
+        "sqrMagnitude": 90000.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 7.52570343,
+      "y": -4.849188,
+      "z": 4.398544,
+      "normalized": {
+        "x": 0.754466355,
+        "y": -0.48614046,
+        "z": 0.440962523,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 9.97487,
+      "sqrMagnitude": 99.498024
+    },
+    "orientation": {
+      "x": 4.37113918E-08,
+      "y": -0.8660254,
+      "z": 7.57103464E-08,
+      "w": 0.50000006,
+      "eulerAngles": {
+        "x": 1.00179122E-05,
+        "y": 240.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 4.1741302E-08,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 240.0,
+        "sqrMagnitude": 57600.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 12.14684,
+      "y": -2.86913157,
+      "z": -21.4278755,
+      "normalized": {
+        "x": 0.4898351,
+        "y": -0.11570099,
+        "z": -0.864103436,
+        "normalized": {
+          "x": 0.489835143,
+          "y": -0.115701,
+          "z": -0.8641035,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 24.7978134,
+      "sqrMagnitude": 614.9315
+    },
+    "orientation": {
+      "x": -7.57103464E-08,
+      "y": -0.5,
+      "z": 4.371139E-08,
+      "w": -0.8660254,
+      "eulerAngles": {
+        "x": 1.00179122E-05,
+        "y": 60.0000038,
+        "z": 0.0,
+        "normalized": {
+          "x": 1.669652E-07,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 60.0000038,
+        "sqrMagnitude": 3600.00049
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 20.7904167,
+      "y": -1.84095669,
+      "z": 11.8769016,
+      "normalized": {
+        "x": 0.865748,
+        "y": -0.0766605362,
+        "z": 0.4945742,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 24.0143986,
+      "sqrMagnitude": 576.691345
+    },
+    "orientation": {
+      "x": -6.181724E-08,
+      "y": -0.707106769,
+      "z": 6.181724E-08,
+      "w": -0.707106769,
+      "eulerAngles": {
+        "x": 1.00179141E-05,
+        "y": 90.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 1.11310158E-07,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 13.9993725,
+      "y": -4.14312935,
+      "z": 20.401535,
+      "normalized": {
+        "x": 0.558027148,
+        "y": -0.16514875,
+        "z": 0.813222945,
+        "normalized": {
+          "x": 0.5580272,
+          "y": -0.165148765,
+          "z": 0.813223,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 25.08726,
+      "sqrMagnitude": 629.3706
+    },
+    "orientation": {
+      "x": -6.181724E-08,
+      "y": -0.707106769,
+      "z": 6.181724E-08,
+      "w": 0.707106769,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 270.0,
+        "z": 1.00179132E-05,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 3.71033835E-08,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 270.0,
+        "sqrMagnitude": 72900.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 25.6045361,
+      "y": -0.7568401,
+      "z": 0.6674674,
+      "normalized": {
+        "x": 0.999224246,
+        "y": -0.0295358989,
+        "z": 0.0260481033,
+        "normalized": {
+          "x": 0.9992243,
+          "y": -0.0295359,
+          "z": 0.0260481052,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 25.6244144,
+      "sqrMagnitude": 656.6106
+    },
+    "orientation": {
+      "x": -6.181724E-08,
+      "y": -0.707106769,
+      "z": 6.181724E-08,
+      "w": -0.707106769,
+      "eulerAngles": {
+        "x": 1.00179141E-05,
+        "y": 90.0,
+        "z": 0.0,
+        "normalized": {
+          "x": 1.11310158E-07,
+          "y": 1.0,
+          "z": 0.0,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 90.0,
+        "sqrMagnitude": 8100.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 15.4415331,
+      "y": -3.84840965,
+      "z": 12.6236229,
+      "normalized": {
+        "x": 0.7601899,
+        "y": -0.189458013,
+        "z": 0.6214636,
+        "magnitude": 1.0,
+        "sqrMagnitude": 1.0
+      },
+      "magnitude": 20.31273,
+      "sqrMagnitude": 412.607056
+    },
+    "orientation": {
+      "x": -6.181723E-08,
+      "y": 0.258819133,
+      "z": -1.07070605E-07,
+      "w": -0.9659258,
+      "eulerAngles": {
+        "x": 1.00179132E-05,
+        "y": 330.0,
+        "z": 1.00179122E-05,
+        "normalized": {
+          "x": 3.03573131E-08,
+          "y": 1.0,
+          "z": 3.035731E-08,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 330.0,
+        "sqrMagnitude": 108900.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 43.95288,
+      "y": -0.3886402,
+      "z": 32.69552,
+      "normalized": {
+        "x": 0.8023319,
+        "y": -0.00709438,
+        "z": 0.5968359,
+        "normalized": {
+          "x": 0.802332,
+          "y": -0.00709438045,
+          "z": 0.596836,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.99999994
+      },
+      "magnitude": 54.7814178,
+      "sqrMagnitude": 3001.00366
+    },
+    "orientation": {
+      "x": -7.57103464E-08,
+      "y": -0.8660254,
+      "z": 4.37113918E-08,
+      "w": 0.50000006,
+      "eulerAngles": {
+        "x": 0.0,
+        "y": 240.0,
+        "z": 1.00179122E-05,
+        "normalized": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 4.1741302E-08,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 240.0,
+        "sqrMagnitude": 57600.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  },
+  {
+    "position": {
+      "x": 45.28095,
+      "y": 4.91732073,
+      "z": 28.5496159,
+      "normalized": {
+        "x": 0.842354238,
+        "y": 0.09147613,
+        "z": 0.5311039,
+        "normalized": {
+          "x": 0.8423543,
+          "y": 0.091476135,
+          "z": 0.531103969,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.00000012
+        },
+        "magnitude": 0.99999994,
+        "sqrMagnitude": 0.9999999
+      },
+      "magnitude": 53.7552338,
+      "sqrMagnitude": 2889.625
+    },
+    "orientation": {
+      "x": 3.19989546E-08,
+      "y": 0.8660254,
+      "z": -1.19421742E-07,
+      "w": -0.50000006,
+      "eulerAngles": {
+        "x": 1.00179122E-05,
+        "y": 240.0,
+        "z": 1.00179132E-05,
+        "normalized": {
+          "x": 4.1741302E-08,
+          "y": 1.0,
+          "z": 4.17413055E-08,
+          "magnitude": 1.0,
+          "sqrMagnitude": 1.0
+        },
+        "magnitude": 240.0,
+        "sqrMagnitude": 57600.0
+      }
+    },
+    "multiplayer_team_association_mask": 0,
+    "m_current_segment": -1
+  }
+]
